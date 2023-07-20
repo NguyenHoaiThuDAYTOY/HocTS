@@ -6,4 +6,4 @@ let test1 = ['nguyen', 'hoai', 'thu'];
 // test1.push(25) // error
 
 let test2 = ['nguyen', 'hoai', 'thu', 15];
-test2.push(25) // no error
+// test2.push(25) // no error

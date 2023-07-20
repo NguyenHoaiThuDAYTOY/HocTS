@@ -4,6 +4,6 @@ let count2: number = 1;
 console.log('checking count: ', count2)
 
 // KDL Tham chiếu
-let names2: string[] = ['nguyen', 'hoai', 'thu'];
+let names2: string[] = ['nguyen', 'hoai', 'thu']; //array chỉ bao gồm string
 // names2.push(25); // error
 console.log('checking names: ', names2)
