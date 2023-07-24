@@ -1,0 +1,1 @@
+let myarrr = ['thu', 25];
